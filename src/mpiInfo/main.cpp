@@ -21,6 +21,8 @@
 #include <mpi.h>
 #include <cstdlib>
 #include <iostream> // std::cerr
+#include <string>
+#include <map>
 
 #include <boost/program_options.hpp>
 #include <boost/program_options/options_description.hpp>
